@@ -1,0 +1,20 @@
+
+            int x;
+            short y;
+            float z;
+            double d;
+            sbyte w;
+            byte e;
+            char a;
+            string b;
+            bool result;
+
+            x = 5;
+            y = -3;
+            z = 3.4f;
+            d = 2.5;
+            w = -2;
+            e = 4;
+            a = 'a';
+            b = "Привет";
+            result = x >= y - w + z;
